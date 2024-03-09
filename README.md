@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Artur Pacut</h1>
+<h1 align="center">Hi 👋 I'm Artur Pacut</h1>
 
 # 💫 About Me:
 I am a second-year computer science student at Edinburgh Napier University. I am passionate about exploring realms of coding and building robust applications
